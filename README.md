@@ -5,7 +5,7 @@
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com) as editor.
 - 🥖 I live in France
 - 🎶 I like listenning music. Specially with my [music bot](https://discord.com/api/oauth2/authorize?client_id=909826264645373972&permissions=11340737857&scope=bot)
-- 🔧 Skills: NodeJs, PHP, Javascript, HTML, vuejs, java, express js
+- 🔧 Skills: NodeJs, PHP, Javascript, C++
 
 ## Request help
 - You can contact me on private messages, on [Discord](https://discord.com/users/787021462619947018).
